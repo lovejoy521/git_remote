@@ -1,2 +1,2 @@
 # README
-Hello world
+Hello
