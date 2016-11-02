@@ -1,4 +1,4 @@
 # README
 Hello 
 It is a README file!
-Thanks!
+Thank you!
