@@ -1,2 +1,4 @@
 # README
-Hello
+Hello 
+It is a README file!
+Thanks!
