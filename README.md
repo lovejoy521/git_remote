@@ -1,6 +1,2 @@
 # README
-Hello 
-It is a README file!
-Thanks again!
-Dangerous!
-Over!
+It is a ruby project.For my learning Ruby,and to be Ruby No.1!

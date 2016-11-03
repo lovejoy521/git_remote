@@ -1,2 +1,2 @@
 # LICENSE #
-Local new one!
+GNU
