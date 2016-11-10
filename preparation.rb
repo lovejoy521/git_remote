@@ -1,6 +1,6 @@
 # preparation.rb
-require "pry"
-a = [1,2,3]
-a << 4
-binding.pry
-puts a
+#coding:utf-8
+def show(name, age=15, gender)
+  puts name
+end
+show("jack","man")
